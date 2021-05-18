@@ -1,0 +1,3 @@
+##Ignoring VSCode files
+.vscode
+.code-workspace
